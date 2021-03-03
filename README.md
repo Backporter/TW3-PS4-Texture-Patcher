@@ -2,6 +2,7 @@
 Swaps out original texture data with custom data.
 
 # Notes Before You Get Started
+* some texture may just fail to pack even if they should, should it fail, please create an issue with the mod name.
 * the way this tool is made means you are limited to swaping data that is equal or lower in size, same goes for resolution and Mip Count.
 * Its in its beta phase(orginally it was set-up for my system but i've cleaned it up so it should work on all systems), as such bugs may be apear
 
