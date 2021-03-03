@@ -11,7 +11,7 @@ Swaps out original texture data with custom data.
 * [Texture Cache Parser](https://forums.cdprojektred.com/index.php?threads/tool-cache-reader.8397190/)
 * Extracted Game PC/PS4
 * [SSE-Fallout-4-Texture-Converter](https://github.com/Backporter/SSE-Fallout-4-Texture-Converter)
-
+* [zlibnet](https://github.com/gdalsnes/zlibnet) - Extract zlibnet.dll next to my app
 # Using The Tool
 
 1: Make sure you have the Official ModKit installed and set-up, along side your game unpacked
