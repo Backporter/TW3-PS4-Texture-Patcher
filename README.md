@@ -15,9 +15,9 @@ Swaps out original texture data with custom data.
 
 1: Make sure you have the Official ModKit installed and set-up, along side your game unpacked
 
-2: Download a Mod From the nexus that should work(in this example ill use [this](https://www.nexusmods.com/witcher3/mods/4507/)) and unpack it either using the ModKit or Cache Parser(if you use Cache Parser you will need to recreate tis orginal path structure), open SSE-Fallout-4-Texture-Converter right-click the empty, select "Backup DDS(Do Not Delete)" hit the X and add the textures and click start and wait for it to finish.
+2: Download a Mod From the nexus that should work(in this example ill use [this](https://www.nexusmods.com/witcher3/mods/4507/)) and unpack it either using the ModKit or Cache Parser(if you use Cache Parser you will need to recreate tis orginal path structure), open SSE-Fallout-4-Texture-Converter right-click the empty to open the settings tab, select "Backup DDS(Do Not Delete)" hit the X and add the textures and click start and wait for it to finish.
 
-3: Copy it to the same directory as my tool, now copy the texture cache that contains the texture you want to Swap out to the same folder with my tool(in this case the texture i want to swap out is inside content0s texture cache)
+3: Copy The Textures to the same directory as my tool, now copy the texture cache that contains the texture you want to Swap out to the same folder with my tool(in this case the texture i want to swap out is inside content0s texture cache)
 
 4: Drag And Drop the texture Cache onto the executable named "TW3CT-Auto" it will grab all the textures inside the current directory and start swaping them out.. you will need to hit ant key after each texture is finished.
 
