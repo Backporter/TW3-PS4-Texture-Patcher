@@ -9,13 +9,13 @@ Swaps out original texture data with custom data.
 * [Offical ModKit](https://www.nexusmods.com/witcher3/mods/3173)
 * [Texture Cache Parser](https://forums.cdprojektred.com/index.php?threads/tool-cache-reader.8397190/)
 * Extracted Game PC/PS4
-
+* [SSE-Fallout-4-Texture-Converter](https://github.com/Backporter/SSE-Fallout-4-Texture-Converter)
 
 # Using The Tool
 
 1: Make sure you have the Official ModKit installed and set-up, along side your game unpacked
 
-2: Download a Mod From the nexus that should work(in this example ill use [this](https://www.nexusmods.com/witcher3/mods/4507/)) and unpack it either using the ModKit or Cache Parser(if you use Cache Parser you will need to recreate tis orginal path structure)
+2: Download a Mod From the nexus that should work(in this example ill use [this](https://www.nexusmods.com/witcher3/mods/4507/)) and unpack it either using the ModKit or Cache Parser(if you use Cache Parser you will need to recreate tis orginal path structure), open SSE-Fallout-4-Texture-Converter right-click the empty, select "Backup DDS(Do Not Delete)" hit the X and add the textures and click start and wait for it to finish.
 
 3: Copy it to the same directory as my tool, now copy the texture cache that contains the texture you want to Swap out to the same folder with my tool(in this case the texture i want to swap out is inside content0s texture cache)
 
