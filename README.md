@@ -25,6 +25,9 @@ Swaps out original texture data with custom data.
 4:If you want to use my tool from a CMD window the arguments is as follows: <"texture.cache" or path to texture cache> <Path To Texture("characters\models" NOT the absolute path(ie, Z:/path/characters/xx)>
 
 # Proof of it working:
-
 ![screenshot](https://cdn.discordapp.com/attachments/719858806351200338/816376309356953661/The_Witcher_3__Wild_Hunt_Game_of_the_Year_Edition_20210302143838.jpg)
 ![screenshot](https://cdn.discordapp.com/attachments/816331695544336446/816547472419717140/The_Witcher_3__Wild_Hunt_Game_of_the_Year_Edition_20210302145143.jpg)
+
+# Change Log:
+1.0 Base.
+2.0 Added Mip Cout checking to pervent issues.
