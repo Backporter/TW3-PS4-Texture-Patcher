@@ -30,5 +30,7 @@ Swaps out original texture data with custom data.
 
 # Change Log:
 1.0 Base.
-2.0 Added Mip Cout checking to pervent issues(if the mip count is grater or lesser than the orginal it will exit the program).
-3.0 Added Resolution Checking to pervent issues(if the Resolution is grater or lesser than the orginal it will exit the program).
+
+3.0 Added Mip Cout checking to pervent issues(if the mip count is grater or lesser than the orginal it will exit the program).
+
+5.0 Added Resolution Checking to pervent issues(if the Resolution is grater or lesser than the orginal it will exit the program).
